@@ -1,1 +1,1 @@
-![VS Code + draw.io](practise.drawio.svg)
+![VS Code + draw.io](practises.drawio.svg)
